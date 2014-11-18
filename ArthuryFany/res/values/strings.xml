@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arthur&amp;Fany</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="GOT">
+        <item>Lannister</item>
+        <item>Stark</item>
+        <item>Tyrell</item>
+        <item>Targaryen</item>
+        <item>Greyjoy</item>
+        <item>Baratheon</item>
+        <item>Tully</item>
+        <item>Arryn</item>
+        <item>Martell</item>
+    </string-array>
+
+</resources>
