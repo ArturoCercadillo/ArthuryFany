@@ -11,7 +11,12 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-
+/**
+ * 
+ * @author Estefanía
+ * @author Arturo
+ * 
+ */
 public class MainActivity extends ListActivity {
 	protected String [] array;
     @Override
