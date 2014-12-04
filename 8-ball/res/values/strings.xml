@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">8-ball</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Pregunta">Haz tu pregunta</string>
+    <string-array name="respuestas">
+        <item>Si</item>
+        <item>Probablemente</item>
+        <item>Seguramente si</item>
+        <item>En un futuro próximo</item>
+        <item>Hoy</item>
+        <item>El futuro es incierto</item>
+        <item>Los astros no me dicen la respuesta</item>
+        <item>En tu futuro sólo veo incertidumbre</item>
+        <item>El futuro nublado por el lado oscura está</item>
+        <item>Improbable</item>
+        <item>Peter</item>
+        <item>Nunca</item>
+        <item>Seguramente no</item>
+        <item>No</item>
+    </string-array>
+
+</resources>
